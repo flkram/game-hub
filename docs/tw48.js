@@ -61,10 +61,13 @@ function startNewGame() {
   addRandomTile();
   addRandomTile();
 }
-
+function showDirections() {
+  window.alert("Use the arrow keys to combine and double numbers. Reach 2048 before occupying all 16 squares.");
+}
 function goBack(){
   window.location.href = '/game-hub';
 }
+
 function continuePlaying() {
   alert.style.display="none";
   window.addEventListener("keydown",onDirectionKeyPress);
