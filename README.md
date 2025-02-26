@@ -1,14 +1,12 @@
 # Game Hub
 
-**Author:** Akash Ramaswamy
-
 ## Description
 
-Welcome to **Game Hub**, a collection of 4 classic games, all playable directly from your browser! 
+Welcome to **Game Hub**, a collection of 4 classic games, all playable directly from the browser.
 
 ## How to Play
 
-Visit the live site [here](https://flkram.github.io/game-hub/) to play any of the games. Use your keyboard or mouse to interact with the games and have fun!
+Visit the live site [here](https://flkram.github.io/game-hub/) to play any of the games. Use your keyboard or mouse to interact with the games.
 
 ## Games Included
 
